@@ -156,21 +156,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentação/Tweaker/Ponto de restauração.md",
+                "file": "APIs/DeltaClass/teste.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ponto de restauração"
+              "title": "Sumário de teste"
+            }
+          },
+          {
+            "id": "470d602364b40f99",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e09955a5c2dc412b",
+  "active": "ea8a1a89b63ed62d",
   "lastOpenFiles": [
     "APIs/DeltaClass/teste.md",
     "Welcome.md",
