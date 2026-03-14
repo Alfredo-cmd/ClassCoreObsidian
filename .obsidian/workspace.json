@@ -11,10 +11,14 @@
             "id": "e09955a5c2dc412b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "APIs/DeltaClass/teste.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "teste"
             }
           }
         ]
@@ -176,11 +180,13 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6861158ea459820b",
+  "active": "e09955a5c2dc412b",
   "lastOpenFiles": [
+    "APIs/DeltaClass/teste.md",
     "Welcome.md",
     "Documentação/Tweaker/Aplicar CheckBoxes.md",
     "APIs/DeltaClass",
